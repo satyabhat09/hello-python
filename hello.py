@@ -2,4 +2,7 @@ print("Hello, World!")
 print("Hello World")
 print("Learning Git properly")
 print("Third practice")
+print("Hello World")
+print("Practice from Git Bash")
+print("Learning step by step")
 

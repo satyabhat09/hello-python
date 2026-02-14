@@ -7,3 +7,4 @@ print("Practice from Git Bash")
 print("Learning step by step")
 
 print("final steps")
+print ("this is second day working")

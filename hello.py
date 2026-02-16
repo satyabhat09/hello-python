@@ -12,4 +12,3 @@ print("Updated successfully")
 
 print("edited")
 print("new file")
-print("updated")
